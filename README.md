@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andynguyen072" alt="andynguyen072" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dragonfable6000" target="blank"><img src="https://img.shields.io/twitter/follow/dragonfable6000?logo=twitter&style=for-the-badge" alt="dragonfable6000" /></a> </p>
-
+<hr>
 - 🌱 I’m currently learning **PyTorch and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/andy-n-27138b199/](https://www.linkedin.com/in/andy-n-27138b199/)
@@ -16,7 +16,7 @@
 - 📫 How to reach me **andynguyen072@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/andy-n-27138b199/](https://www.linkedin.com/in/andy-n-27138b199/)
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dragonfable6000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dragonfable6000" height="30" width="40" /></a>
