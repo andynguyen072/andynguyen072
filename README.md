@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dragonfable6000" target="blank"><img src="https://img.shields.io/twitter/follow/dragonfable6000?logo=twitter&style=for-the-badge" alt="dragonfable6000" /></a> </p>
 <hr>
+
 - 🌱 I’m currently learning **PyTorch and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/andy-n-27138b199/](https://www.linkedin.com/in/andy-n-27138b199/)
