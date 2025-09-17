@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PyTorch and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/andy-n-27138b199/](https://www.linkedin.com/in/andy-n-27138b199/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/andynguyen072/](https://www.linkedin.com/in/andynguyen072/)
 
 - 💬 Ask me about **Roblox :)**
 
